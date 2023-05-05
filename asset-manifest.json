@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RTQ-test-phoneBooks/static/css/main.7acaea2f.css",
-    "main.js": "/RTQ-test-phoneBooks/static/js/main.07d3183d.js",
-    "index.html": "/RTQ-test-phoneBooks/index.html",
-    "main.7acaea2f.css.map": "/RTQ-test-phoneBooks/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/RTQ-test-phoneBooks/static/js/main.07d3183d.js.map"
+    "main.css": "/rtq-test-phone-books/static/css/main.7acaea2f.css",
+    "main.js": "/rtq-test-phone-books/static/js/main.07d3183d.js",
+    "index.html": "/rtq-test-phone-books/index.html",
+    "main.7acaea2f.css.map": "/rtq-test-phone-books/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/rtq-test-phone-books/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
